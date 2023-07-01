@@ -684,6 +684,7 @@ body {
 .service__pricing {
    display: flex;
    justify-content: space-between;
+   padding-bottom: 200px;
 }
 
 ul.service__item {
@@ -1311,6 +1312,10 @@ ul.service__item {
       padding: 0;
       margin-top: 125px;
       padding-bottom: 200px;
+   }
+
+   .service__pricing {
+      padding-bottom: 0;
    }
 
    /* Section - team */ 
