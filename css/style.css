@@ -1773,3 +1773,20 @@ ul.service__item {
       padding: 30px 0 30px;
    }
 }
+
+@media (max-width: 320px) {
+   /* Section - gallery */
+   .gallery__menu {
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: column;
+   }
+
+   .gallery__btn {
+      font-size: 18px;
+      margin-bottom: 15px;
+  }
+}
+
+
+
