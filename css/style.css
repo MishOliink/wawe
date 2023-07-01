@@ -1785,7 +1785,12 @@ ul.service__item {
    .gallery__btn {
       font-size: 18px;
       margin-bottom: 15px;
-  }
+   }
+
+   .gallery__item {
+      position: relative;
+      margin-bottom: 25px;
+   }
 }
 
 
